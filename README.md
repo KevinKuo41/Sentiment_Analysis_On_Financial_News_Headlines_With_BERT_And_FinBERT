@@ -1,6 +1,5 @@
 # Sentiment Analysis On Financial News Headlines With BERT & FinBERT Models <br><br> 使用 BERT & FinBERT 等模型對財經新聞標題進行情緒分析
-[English Summary](https://github.com/KevinKuo41/Sentiment_Analysis_On_Financial_News_Headlines_With_BERT_And_FinBERT#english-summary)
-[中文摘要](https://github.com/KevinKuo41/Sentiment_Analysis_On_Financial_News_Headlines_With_BERT_And_FinBERT#%E4%B8%AD%E6%96%87%E6%91%98%E8%A6%81)
+[English Summary](https://github.com/KevinKuo41/Sentiment_Analysis_On_Financial_News_Headlines_With_BERT_And_FinBERT#english-summary) |[中文摘要](https://github.com/KevinKuo41/Sentiment_Analysis_On_Financial_News_Headlines_With_BERT_And_FinBERT#%E4%B8%AD%E6%96%87%E6%91%98%E8%A6%81)
 #### English Summary
 ![Financial News Sentiment Analysis Applying BERT-01](https://user-images.githubusercontent.com/92542287/220114252-8ae42f7f-a01d-45c5-acf1-1755300ec53f.jpg)
 ![Financial News Sentiment Analysis Applying BERT-02](https://user-images.githubusercontent.com/92542287/220114337-fe46a023-0019-42d7-a09d-f53433363dd6.jpg)
