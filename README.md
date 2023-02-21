@@ -6,7 +6,7 @@
 ![Financial News Sentiment Analysis Applying BERT-03](https://user-images.githubusercontent.com/92542287/220114344-797319fe-0dc9-4c95-b190-98048fc9394e.jpg)
 ![Financial News Sentiment Analysis Applying BERT-04](https://user-images.githubusercontent.com/92542287/220114352-47aa826b-9abb-4436-8c60-9b4bd5edd072.jpg)
 ![Financial News Sentiment Analysis Applying BERT-05](https://user-images.githubusercontent.com/92542287/220290852-15b8e702-fc68-42b3-85b6-0b84dd40bf12.jpg)
-Dataset - https://www.kaggle.com/datasets/keitazoumana/financialnewsheadline
+Dataset Source - https://www.kaggle.com/datasets/keitazoumana/financialnewsheadline
 ![Financial News Sentiment Analysis Applying BERT-06](https://user-images.githubusercontent.com/92542287/220114401-88f78768-36ea-4d45-aa0a-f5f619a3ec94.jpg)
 ![Financial News Sentiment Analysis Applying BERT-07](https://user-images.githubusercontent.com/92542287/220114415-dee1c7a5-d2d3-44b0-b07a-b537cf4efbec.jpg)
 ![Financial News Sentiment Analysis Applying BERT-08](https://user-images.githubusercontent.com/92542287/220114423-b0f21cbd-7e1f-4084-a016-bef487deef18.jpg)
@@ -42,6 +42,7 @@ Dataset - https://www.kaggle.com/datasets/keitazoumana/financialnewsheadline
 ![Financial News Sentiment Analysis Applying BERT_Chinese-02](https://user-images.githubusercontent.com/92542287/220115008-2e76f26b-c831-4216-bdd8-28d382b42707.jpg)
 ![Financial News Sentiment Analysis Applying BERT_Chinese-03](https://user-images.githubusercontent.com/92542287/220115012-5303c020-f930-473a-9717-e9cb5e8559df.jpg)
 ![Financial News Sentiment Analysis Applying BERT_Chinese-04](https://user-images.githubusercontent.com/92542287/220115016-3fca6b56-8c64-4d7e-8f8e-a1a161ea2c17.jpg)
+資料來源 - https://www.kaggle.com/datasets/keitazoumana/financialnewsheadline
 ![Financial News Sentiment Analysis Applying BERT_Chinese-05](https://user-images.githubusercontent.com/92542287/220115021-4b6a0cb4-04d1-4e7b-a91b-6eb20e2bb156.jpg)
 ![Financial News Sentiment Analysis Applying BERT_Chinese-06](https://user-images.githubusercontent.com/92542287/220115055-5ec2e027-816c-4324-9581-ac2c0a8cef48.jpg)
 ![Financial News Sentiment Analysis Applying BERT_Chinese-07](https://user-images.githubusercontent.com/92542287/220115058-623c29c5-8bc7-4eca-ad6d-0652b9f4cf71.jpg)
