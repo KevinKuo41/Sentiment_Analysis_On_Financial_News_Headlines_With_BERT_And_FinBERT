@@ -4,7 +4,7 @@
 ![Financial News Sentiment Analysis Applying BERT-02](https://user-images.githubusercontent.com/92542287/220114337-fe46a023-0019-42d7-a09d-f53433363dd6.jpg)
 ![Financial News Sentiment Analysis Applying BERT-03](https://user-images.githubusercontent.com/92542287/220114344-797319fe-0dc9-4c95-b190-98048fc9394e.jpg)
 ![Financial News Sentiment Analysis Applying BERT-04](https://user-images.githubusercontent.com/92542287/220114352-47aa826b-9abb-4436-8c60-9b4bd5edd072.jpg)
-![Financial News Sentiment Analysis Applying BERT-05](https://user-images.githubusercontent.com/92542287/220114361-714dd2b7-d4a6-402a-8cf3-3691926da0a0.jpg)
+![Financial News Sentiment Analysis Applying BERT-05](https://user-images.githubusercontent.com/92542287/220290852-15b8e702-fc68-42b3-85b6-0b84dd40bf12.jpg)
 ![Financial News Sentiment Analysis Applying BERT-06](https://user-images.githubusercontent.com/92542287/220114401-88f78768-36ea-4d45-aa0a-f5f619a3ec94.jpg)
 ![Financial News Sentiment Analysis Applying BERT-07](https://user-images.githubusercontent.com/92542287/220114415-dee1c7a5-d2d3-44b0-b07a-b537cf4efbec.jpg)
 ![Financial News Sentiment Analysis Applying BERT-08](https://user-images.githubusercontent.com/92542287/220114423-b0f21cbd-7e1f-4084-a016-bef487deef18.jpg)
