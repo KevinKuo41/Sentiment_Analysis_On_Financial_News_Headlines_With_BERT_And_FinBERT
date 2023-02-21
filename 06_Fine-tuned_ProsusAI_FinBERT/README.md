@@ -1,7 +1,7 @@
 # Fine-tuned ProsusAI FinBERT
 
 ### 1. Fine-tuning Process In This Work:
-#### Here, we e used 3,924 samples to fine-tune ProsusAI’s FinBERT again. Params: learning rate = 2e-5, batch size = 32, with 5 epochs -> The model finishing 3 epochs produced the utmost F1-Score
+#### Here, we e used 3,924 samples to fine-tune ProsusAI’s FinBERT again. <br> * Params: learning rate = 2e-5, batch size = 32, with 5 epochs -> The model finishing 3 epochs produced the utmost F1-Score
 
 ### 2. Performance:
 #### Compared to its untuned version, the fine-tuned model has the following performance: <br><br> (1) Accuracy: ProsusAI’s FinBERT model, after fine-tuning, has an incredibly high accuracy of 98%, the best score achieved in this work. <br><br> (2) F1-Score: The model’s weighted average F1-Score also increases to 98%, the highest score. Compared to the untuned version, the precision rate on Negative and Positive news and the recall rate on Neutral news all rise substantially. Only 22 out of 922 samples are misclassified.
